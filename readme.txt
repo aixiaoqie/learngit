@@ -1,6 +1,6 @@
 git is a distributed version control system
 
-git is free sortware distributed version under the GPL
+git is a free sortware distributed version under the GPL
 
 git has a multable index called stage
 
