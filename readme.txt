@@ -6,8 +6,6 @@ git has a multable index called stage
 
 git tracks changes of files
 
-<<<<<<< HEAD
 creating a new branch is quick and simple
-=======
-creating a new branch is quick AND simple
->>>>>>> feature1
+
+add merge
